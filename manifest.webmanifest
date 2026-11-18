@@ -1,0 +1,10 @@
+{
+  "name": "Snow Log Inspection - Diamond Groundskeeping",
+  "short_name": "Snow Log",
+  "start_url": "/snow-log-diamond/",
+  "scope": "/snow-log-diamond/",
+  "display": "standalone",
+  "background_color": "#f4f6f9",
+  "theme_color": "#990000",
+  "icons": [{ "src": "/snow-log-diamond/brand/icon.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }]
+}
